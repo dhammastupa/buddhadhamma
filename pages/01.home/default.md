@@ -3,7 +3,7 @@ title: Home
 body_classes: 'title-center title-h1h2'
 ---
 
-# Dhamma Stupa Network
+# Dhamma Stupa Network - 1
 ## installation successful...
 
 อรหํ สมฺมาสมฺพุทฺโธ ภควา
