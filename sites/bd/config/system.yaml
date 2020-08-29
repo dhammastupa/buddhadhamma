@@ -29,7 +29,7 @@ home:
   alias: /home
   hide_in_urls: false
 pages:
-  theme: g5_hydrogen
+  theme: learn2-git-sync
   order:
     by: default
     dir: asc
