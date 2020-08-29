@@ -1,0 +1,11 @@
+state: enabled
+email: dhammastupa@gmail.com
+fullname: 'Ariya Owam-aram'
+title: Administrator
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$bSptM733ylvubh9ZkDtX1O0N5qsOOg1pAQkpUGx/0sJPZmc2xr6SC
