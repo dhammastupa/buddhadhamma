@@ -8,7 +8,7 @@ The [Quark theme](https://github.com/getgrav/grav-theme-quark) is the new defaul
 
 ### Headings
 
-# H1 Heading `40px`
+# H1 Heading `40px` ---  Dhamma Stupa Network
 
 ## H2 Heading `32px`
 
