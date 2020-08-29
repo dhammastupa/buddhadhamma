@@ -1,0 +1,31 @@
+enabled: true
+folders:
+  - pages
+  - themes
+  - plugins
+  - sites
+sync:
+  on_save: true
+  on_delete: true
+  on_media: true
+  cron_enable: false
+  cron_at: '0 12,23 * * *'
+local_repository: null
+repository: 'https://github.com/dhammastupa/dsn.git'
+no_user: '0'
+user: dhammastupa@gmail.com
+password: gitsync-def502008339118eb171a76daf56f24dca6044019c3630c6d2c33d4050f521031ba3f3d64ff366db6488be6d605dcf853900df4e7f349513bcc3e58f19959da4db8e98f74ee4c4651e0172036f4d187e055f4a59d2af324a061e753d99
+webhook: /_git-sync-f28df84f1bbe
+webhook_enabled: '0'
+webhook_secret: 9a0317b1b49bd9b8f880e7fd7f7af64386cb9768a21eec3c
+branch: master
+remote:
+  name: origin
+  branch: master
+git:
+  author: gituser
+  message: '(Grav GitSync) Automatic Commit'
+  name: GitSync
+  email: git-sync@trilby.media
+  bin: git
+logging: false
