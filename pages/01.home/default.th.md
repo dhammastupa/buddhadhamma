@@ -1,5 +1,5 @@
 ---
-title: Home
+title: พระธัมมเจดีย์
 body_classes: 'title-center title-h1h2'
 ---
 
