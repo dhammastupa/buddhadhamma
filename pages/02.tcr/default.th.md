@@ -1,5 +1,5 @@
 ---
-title: พระธัมมเจดีย์
+title: ระบบอ้างอิงร่วม
 body_classes: 'title-center title-h1h2'
 ---
 
