@@ -3,7 +3,7 @@ title: พระธัมมเจดีย์
 body_classes: 'title-center title-h1h2'
 ---
 
-# Dhamma Stupa Network - 1{.red-70}
+# Dhamma Stupa Network - 1
 ## installation successful...
 
 อรหํ สมฺมาสมฺพุทฺโธ ภควา
