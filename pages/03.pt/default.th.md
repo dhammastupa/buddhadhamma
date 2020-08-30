@@ -1,9 +1,6 @@
 ---
 title: พระไตรปิฎกฉบับสำหรับประชาชน
-media_order: ''
 body_classes: 'title-center title-h1h2'
-order_by: ''
-order_manual: ''
 ---
 
 # Dhamma Stupa Network - 1{.text-6xl}
