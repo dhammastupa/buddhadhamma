@@ -3,31 +3,4 @@ title: ระบบอ้างอิงร่วม
 body_classes: 'title-center title-h1h2'
 ---
 
-# Dhamma Stupa Network - 1
-## installation successful...
-
-อรหํ สมฺมาสมฺพุทฺโธ ภควา
-พุทฺธํฺ ภควนฺตํ อภิวาเทมิ
-สฺวากฺขาโต ภควตา ธมฺโม
-ธมฺมํ นมสฺสามิ
-สุปฏิปนฺโน ภควโต สาวกสงฺโฆ
-สงฺฆํ นมามิ
-
-### Create a New Page
-
-Creating a new page is a simple affair in **Grav**.  Simply follow these simple steps:
-
-1. Navigate to your pages folder: `user/pages/` and create a new folder.  In this example, we will use [explicit default ordering](http://learn.getgrav.org/content/content-pages) and call the folder `03.mypage`.
-2. Launch your text editor and paste in the following sample code:
-
-        ---
-        title: My New Page
-        ---
-        # My New Page!
-
-        This is the body of **my new page** and I can easily use _Markdown_ syntax here.
-
-3. Save this file in the `user/pages/03.mypage/` folder as `default.md`. This will tell **Grav** to render the page using the **default** template.
-4. That is it! Reload your browser to see your new page in the menu.
-
-! NOTE: The page will automatically show up in the Menu after the "Typography" menu item. If you wish to change the name that shows up in the Menu, simple add: `menu: My Page` between the dashes in the page content. This is called the YAML front matter, and it is where you configure page-specific options.
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
