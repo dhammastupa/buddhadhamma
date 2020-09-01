@@ -1,6 +1,5 @@
 ---
 title: Dhamma Stupa Network
-body_classes: 'title-center title-h1h2'
 ---
 
 # Dhamma Stupa Network
