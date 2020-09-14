@@ -14,7 +14,7 @@ title: พระไตรปิฎกฉบับสำหรับประช�
 [sample](/tps/ptf) {.btn .btn-primary .text-center}
 
 <div class="text-center">
-    <a class="btn btn-link" href="/ptf">เข้าสู่พระไตรปิฎก</a>
+    <a class="btn btn-link" href="/pt">เข้าสู่พระไตรปิฎก</a>
 </div>
 
 
