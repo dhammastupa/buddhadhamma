@@ -11,7 +11,7 @@ title: พระไตรปิฎกฉบับสำหรับประช�
 
 #### **คำปรารภ**{.text-center  .py-4}
 
-<p class="text-center">dd [sample](/tps/ptf) {.btn .btn-primary}  </p>
+[sample](/tps/ptf) {.btn .btn-primary .text-center}
 
 
 
