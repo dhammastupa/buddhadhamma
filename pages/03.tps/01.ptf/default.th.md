@@ -13,7 +13,9 @@ title: พระไตรปิฎกฉบับสำหรับประช�
 
 [sample](/tps/ptf) {.btn .btn-primary .text-center}
 
-<input type="submit" style="width: 300px; margin: 0 auto;" />
+<div class="text-center">
+    <a class="btn btn-primary" href="/tcr/pt"></a>
+</div>
 
 
 
