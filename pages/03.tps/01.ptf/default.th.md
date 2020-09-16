@@ -9,11 +9,11 @@ media_order: book-cover.png
 ##### ย่อความจากพระไตรปิฎกฉบับภาษาบาลี ๔๕{.text-center .py-2}
 ##### สุชีพ  ปุญญานุภาพ{.text-center .py-4}
 
-[![หน้าปกหนังสือ](book-cover.png)](https://duckduckgo.com){.rounded .mx-auto .d-block}
+[![หน้าปกหนังสือ](book-cover.png)](/pt){.rounded .mx-auto .d-block}
 
 <br>
 
-###### [อ่านหนังสือ ](https://duckduckgo.com){.text-center}
+###### [อ่านหนังสือ ](/pt){.text-center}
 
 <br>
 
