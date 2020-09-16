@@ -13,7 +13,7 @@ media_order: book-cover.png
 
 <br>
 
-###### [อ่านหนังสือ ](https://duckduckgo.com).
+###### [อ่านหนังสือ ](https://duckduckgo.com){.text-center}
 
 <br>
 
