@@ -2,7 +2,7 @@
 title: โครงการอนุรักษ์คัมภีร์โบราณ
 ---
 
-<h3>โครงการศึกษาและอนุรักษ์คัมภีร์ใบลาน</h3>
+# โครงการศึกษาและอนุรักษ์คัมภีร์ใบลาน
 
 THE DIGITAL PRESERVATION
 OF ANCIENT SCRIPTURE AND MANUSCRIPTS
