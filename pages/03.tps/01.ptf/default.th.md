@@ -13,7 +13,7 @@ media_order: book-cover.png
 
 <br>
 
-###### [อ่านหนังสือ ](pt){.text-center}
+###### [อ่านหนังสือ ](/../pt){.text-center}
 
 <br>
 
