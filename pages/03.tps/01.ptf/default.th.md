@@ -11,7 +11,6 @@ media_order: book-cover.png
 
 [![หน้าปกหนังสือ](book-cover.png){.rounded .mx-auto .d-block}](/pt)
 
-[![หน้าปกหนังสือ](book-cover.png)](/pt){.rounded .mx-auto .d-block}
 <br>
 
 ###### [อ่านหนังสือ ](pt){.text-center}
