@@ -9,7 +9,7 @@ media_order: book-cover.002.png
 ##### สมเด็จพระพุทธโฆษาจารย์ {.text-center .py-2}
 ##### ป. อ. ปยุตฺโต{.text-center .py-4}
 
-[![หน้าปกหนังสือ](book-cover.002.jpg){.rounded .mx-auto .d-block}](/../bd)
+[![หน้าปกหนังสือ](book-cover.002.png){.rounded .mx-auto .d-block}](/../bd)
 
 <br>
 
