@@ -1,0 +1,6 @@
+enabled: true
+css_inline: "body, h1, h2, h3, h4, h5, h6, a {\r\n  font-family: \"Chakra Petch\" !important;\r\n}\r\n\r\n.mt-10 {\r\n\tmargin-top: -10px !important;\r\n}\r\n.mb-10 {\r\n\tmargin-bottom: -10px !important;\r\n}\r\n\r\n.mt-20 {\r\n\tmargin-top: -20px !important;\r\n}\r\n.mb-20 {\r\n\tmargin-bottom: -20px !important;\r\n}\r\n\r\ndiv .footnotes ol li p {\r\n    margin: 5px;\r\n}"
+css_files:
+  -
+    path: /user/sites/bd/themes/learn2-git-sync/css/tachyons.min.css
+    priority: 0
