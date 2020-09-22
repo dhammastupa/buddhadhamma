@@ -1,6 +1,6 @@
 ---
 title: 'พุทธธรรม ฉบับปรับขยาย'
-media_order: book-cover.jpg
+media_order: book-cover.002.png
 ---
 
 # **พุทธธรรม**{.text-center}
@@ -9,7 +9,7 @@ media_order: book-cover.jpg
 ##### สมเด็จพระพุทธโฆษาจารย์ {.text-center .py-2}
 ##### ป. อ. ปยุตฺโต{.text-center .py-4}
 
-[![หน้าปกหนังสือ](book-cover.jpg){.rounded .mx-auto .d-block}](/../bd)
+[![หน้าปกหนังสือ](book-cover.002.jpg){.rounded .mx-auto .d-block}](/../bd)
 
 <br>
 
