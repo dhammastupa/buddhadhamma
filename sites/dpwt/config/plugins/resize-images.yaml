@@ -1,4 +1,4 @@
-enabled: false
+enabled: true
 adapter: imagick
 remove_original: true
 sizes:
