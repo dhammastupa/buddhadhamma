@@ -1,5 +1,9 @@
 ---
 title: พระธัมมเจดีย์
+access:
+    site.login: true
+permissions:
+    groups: {  }
 ---
 
 # พระธัมมเจดีย์
