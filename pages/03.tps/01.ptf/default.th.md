@@ -1,6 +1,6 @@
 ---
 title: พระไตรปิฎกฉบับสำหรับประชาชน
-media_order: book-cover.png
+media_order: book-cover.001.png
 ---
 
 # **พระไตรปิฎก**{.text-center}
@@ -9,7 +9,7 @@ media_order: book-cover.png
 ##### ย่อความจากพระไตรปิฎกฉบับภาษาบาลี ๔๕{.text-center .py-2}
 ##### สุชีพ  ปุญญานุภาพ{.text-center .py-4}
 
-[![หน้าปกหนังสือ](book-cover.png){.rounded .mx-auto .d-block}](/../pt)
+[![หน้าปกหนังสือ](book-cover.001.png){.rounded .mx-auto .d-block}](/../pt)
 
 <br>
 
