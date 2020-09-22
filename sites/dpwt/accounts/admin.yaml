@@ -3,9 +3,35 @@ email: dhammastupa@gmail.com
 fullname: 'Ariya Owam-aram'
 title: Administrator
 access:
-  admin:
-    login: true
-    super: true
   site:
-    login: true
+    login: 'true'
+  admin:
+    super: 'true'
+    login: 'true'
+    cache: 'true'
+    configuration: 'true'
+    configuration_system: 'true'
+    configuration_site: 'true'
+    configuration_media: 'true'
+    configuration_info: 'true'
+    settings: 'true'
+    pages: 'true'
+    maintenance: 'true'
+    statistics: 'true'
+    plugins: 'true'
+    themes: 'true'
+    tools: 'true'
+    users: 'true'
+  admin-addon-user-manager:
+    users: 'true'
+    groups: 'true'
+    users_expert: 'true'
 hashed_password: $2y$10$bSptM733ylvubh9ZkDtX1O0N5qsOOg1pAQkpUGx/0sJPZmc2xr6SC
+_json:
+  avatar: '[]'
+  state: '"enabled"'
+  hashed_password: '"$2y$10$bSptM733ylvubh9ZkDtX1O0N5qsOOg1pAQkpUGx\/0sJPZmc2xr6SC"'
+password: null
+language: en
+twofa_enabled: false
+twofa_secret: 4AONRMV4KGNPYBVGDD5YCEYYMUVMJKHH

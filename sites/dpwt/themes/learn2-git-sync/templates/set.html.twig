@@ -1,0 +1,21 @@
+{% extends 'docs.html.twig' %}
+
+{% block content %}
+	<div id="chapter">
+    <div id="body-inner">
+			<h1>{{ page.title }}</h1>
+			<h4 class="pb4 mt-20 tc">จำนวน {{ page.children.count() }} ผูก</h4>
+			{% for p in page.collection %}
+				<h3>
+					<a 
+						href="{{ p.link }}"
+						style="text-decoration: none;"
+					>
+						{{ p.title }}
+					</a>
+				</h3>
+				<p class="mt-10">จำนวน <b>{{ p.media.count() }}</b> ใบลาน</p>
+			{% endfor %}			
+		</div>
+  </div>
+{% endblock %}

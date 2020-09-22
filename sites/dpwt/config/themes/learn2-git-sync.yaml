@@ -1,6 +1,6 @@
 enabled: true
 root_page: null
-top_level_version: false
+top_level_version: true
 google_analytics_code: null
 home_url: null
 github:

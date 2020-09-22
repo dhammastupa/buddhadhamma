@@ -1,0 +1,35 @@
+state: enabled
+_json:
+  avatar: '[]'
+  state: '"enabled"'
+email: thanus.mulsarn@gmail.com
+fullname: 'Thanus Mulsarn'
+title: null
+language: th
+twofa_enabled: false
+twofa_secret: 4AONRMV4KGNPYBVGDD5YCEYYMUVMJKHH
+access:
+  site:
+    login: 'true'
+  admin:
+    super: 'false'
+    login: 'true'
+    cache: 'false'
+    configuration: 'false'
+    configuration_system: 'false'
+    configuration_site: 'false'
+    configuration_media: 'false'
+    configuration_info: 'false'
+    settings: 'false'
+    pages: 'true'
+    maintenance: 'false'
+    statistics: 'false'
+    plugins: 'false'
+    themes: 'false'
+    tools: 'false'
+    users: 'false'
+  admin-addon-user-manager:
+    users: 'false'
+    groups: 'false'
+    users_expert: 'false'
+hashed_password: $2y$10$.wUy1Psnq04sKTw5wczLf.bTFysvlSF0EIDSEocSvTTQ6lyDv22We
